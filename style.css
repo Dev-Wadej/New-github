@@ -1,0 +1,66 @@
+body{
+    background-color: white;
+    margin: 5px;
+    font-family: Papyrus,fantasy; 
+} 
+.top{
+  float: left;
+  color: white;
+  
+  
+  
+
+}
+.head{
+ 
+ 
+  float: right;
+
+}
+.head a{
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  }
+.chris{
+  clear: both;
+}
+.col-1, .col-2{
+  vertical-align: top;
+
+}
+.header{
+  height: 25px;
+  margin: 0px;
+  padding-bottom: 100px;   
+   background-color: #252c33;
+   
+}
+.head li {
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: top;
+  }
+  .head li:last-child {
+    margin-right: 0;
+  }
+.Howe{
+    float: left;
+      width: 70%;
+  }
+.speaker{
+    width: 20%;
+    border: 1px solid #dfe2e5;
+    border-radius: 5px;
+    margin-top: 88px;
+    padding: 22px 0;
+    text-align: center;
+    float: right;
+  }
+.speakbro{
+  text-align: center;
+  background-color: rgb(87,207,109, .3);
+  padding: 20px;
+  margin: 0px;
+  width: 100%;
+}
